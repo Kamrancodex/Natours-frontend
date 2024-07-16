@@ -67,7 +67,7 @@ Natours is a web project that offers exciting tours for adventurous people. It p
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/natours.git
+git clone https://github.com/kamrancodex/natours.git
 ```
 
 Navigate to the project directory:
